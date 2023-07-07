@@ -1,2 +1,2 @@
 # Odin.Landing-page
-https://kulonik.github.io/odin.Landing-page/
+https://kulonik.github.io/Odin.Landing-page/
